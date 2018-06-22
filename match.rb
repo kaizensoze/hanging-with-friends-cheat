@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 
 wrong_letters = ARGV[1]
 
